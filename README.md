@@ -11,6 +11,10 @@ Develop a Recurrent Neural Network model for stock price prediction using the st
 Here we have taken the price of google stock dataset
 
 
+![model](https://github.com/Javith-farkhan/rnn-stock-price-prediction/assets/94296805/e256e9d0-a69e-4891-9c1b-75ae1a1c5b74)
+
+
+
 
 Include the neural network model diagram.
 
